@@ -25,6 +25,7 @@ The following steps are to help you begin to develop your personal brand.
     * https://www.smashingmagazine.com/2012/04/when-typography-speaks-louder-than-words/
     * Find two fonts that represent how you want to be perceived
 5. Research industries and genres, pick 2 or 3 that represent how you want to be perceived 
+    * https://gist.github.com/mbejda/19012b99a12e9d014389
 6. Write a guide for what principles you will follow when completing projects - Essentially something like a Knight’s Code of Chivalry Code (See the image below)
     * https://designshack.net/articles/business-articles/why-every-designer-needs-a-code-of-ethics/
     * This is useful when you have to make decisions when working with clients or companies. If you have it written out, when a client asks you do something and you start wondering if it's worth the money, you can fall back on this because if it breaks on of the principles it will hurt your brand and ultimately your career. 
