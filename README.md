@@ -1,8 +1,9 @@
 # Weekly Coding Challenges
 Weekly Challenges to improve a developer's career and skills
 
-New challenges will be released on Wednesday of every week for at least 6 months.
+New challenges will be released on a weekly basis.
 
-| Week | Challenge Name | Link |
+| Challenge | Challenge Name | Link |
 | ---- | -------------- | ---- |
-| #1 | Branding Yourself | [Week-1/readme.md](Week-1/readme.md) |
+| #1 | Branding Yourself | [Challenge-1/readme.md](Challenge-1/readme.md) |
+| #2 | Keeping Current | [Challenge-2/readme.md](Challenge-2/readme.md) | 

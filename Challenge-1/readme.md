@@ -1,4 +1,4 @@
-# Week 1: Branding Yourself
+# Challenge 1: Branding Yourself
 
 > Authors: Latisha McNeel, Camden Kirkland
 
