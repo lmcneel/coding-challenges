@@ -23,7 +23,11 @@ As a developer in an ever-changing landscape, its critically important to find s
 
 ## Starting Resources
 
-Please visit [airtable link]() to see a list of sources.
+Please visit [Airtable Base: Keeping Current](https://airtable.com/shrSz3miegPgqu2uI) to see a list of sources.
 
 The Getting Started Card matches this readme
 The contributing guide can also be read [Contributing.md](contributing.md)
+
+You can sign up for an airtable account (free) and make a copy of the base to maintain on your own.
+
+It should also translate to any spreadsheet format.
