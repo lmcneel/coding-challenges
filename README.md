@@ -1,7 +1,7 @@
-# Weekly Coding Challenges
-Weekly Challenges to improve a developer's career and skills
+# Coding Challenges
+Challenges to improve a developer's career and skills
 
-New challenges will be released on a weekly basis.
+New challenges will be released on a regular basis.
 
 | Challenge | Challenge Name | Link |
 | ---- | -------------- | ---- |
